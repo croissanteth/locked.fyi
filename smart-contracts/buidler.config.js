@@ -63,7 +63,7 @@ module.exports = {
     lock: {
       default: 1,
       1: '', // undeployed
-      4: '0xda2Bb776710ce1D1B4c6d35a3FCc243Bd92F382b',
+      4: '0x2CD1EDd0f7F1C20c4892cDBD8700B93c23777989',
     },
     tokenManager: {
       default: 3,
@@ -78,7 +78,7 @@ module.exports = {
     miniMeToken: {
       default: 5,
       1: '', // undeployed
-      4: '0xe2e1344cce5a11d6ceb048077b96722d3d00a686',
+      4: '0xbba68d6db8fda871826bbc42ffdb3773bc7c4dd5',
     },
   },
 }
